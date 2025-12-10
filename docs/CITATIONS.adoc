@@ -1,0 +1,36 @@
+= exorcised-nerdctl - Citation Guide
+:toc:
+
+== BibTeX
+
+[source,bibtex]
+----
+@software{exorcised-nerdctl_2025,
+  author = {Polymath, Hyper},
+  title = {exorcised-nerdctl},
+  year = {2025},
+  url = {https://github.com/hyperpolymath/exorcised-nerdctl},
+  license = {AGPL-3.0-or-later}
+}
+----
+
+== Harvard Style
+
+Polymath, H. (2025) _exorcised-nerdctl_ [Computer software]. Available at: https://github.com/hyperpolymath/exorcised-nerdctl
+
+== OSCOLA
+
+Hyper Polymath, 'exorcised-nerdctl' (2025) <https://github.com/hyperpolymath/exorcised-nerdctl>
+
+== MLA
+
+Polymath, Hyper. "exorcised-nerdctl." 2025, github.com/hyperpolymath/exorcised-nerdctl.
+
+== APA 7
+
+Polymath, H. (2025). _exorcised-nerdctl_ [Computer software]. GitHub. https://github.com/hyperpolymath/exorcised-nerdctl
+
+== See Also
+
+* link:../CITATION.cff[CITATION.cff]
+* link:../codemeta.json[codemeta.json]
